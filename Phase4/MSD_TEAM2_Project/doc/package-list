@@ -1,0 +1,11 @@
+com.msd.DBLPParser
+com.msd.DBLPParser.db
+com.msd.DBLPParser.interfaces
+com.msd.DBLPParser.model
+com.msd.db
+com.msd.interfaces
+com.msd.queryengine
+com.msd.queryengine.model
+com.msd.queryengine.services
+com.msd.userinterface
+parser

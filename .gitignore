@@ -1,0 +1,19 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+TEAM2_MSD_Project/input/dblp.xml
+TEAM2_MSD_Project/target
+Phase3/TEAM2_MSD_Project/input/dblp.xml
+Phase3/TEAM2_MSD_Project/input/committees
+!Phase3/TEAM2_MSD_Project/input/committees/popl2007-pc.txt
+!Phase3/TEAM2_MSD_Project/input/committees/oopsla2004-pc.txt

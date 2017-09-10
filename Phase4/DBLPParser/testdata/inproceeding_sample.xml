@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<inproceedings mdate="2012-05-18" key="conf/oopsla/JordanSW94">
+<author>Richard Jordan</author>
+<author>Ruth Smilan</author>
+<author>Alex Wilkinson</author>
+<title>Streamlining the Project Cycle With Object-Oriented Requirements.</title>
+<pages>287-300</pages>
+<year>1994</year>
+<crossref>conf/oopsla/1994</crossref>
+<booktitle>OOPSLA</booktitle>
+<url>db/conf/oopsla/oopsla94.html#JordanSW94</url>
+<ee>http://doi.acm.org/10.1145/191080.191123</ee>
+</inproceedings>
+</dblp>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<inproceedings mdate="2011-06-14" key="journals/lncs/Ludewig91">
+<author>Petra Ludewig</author>
+<title>Incremental Vocabulary Extensions in Text Understanding Systems.</title>
+<pages>153-166</pages>
+<year>1991</year>
+<crossref>journals/lncs/1991-546</crossref>
+<booktitle>Text Understanding in LILOG</booktitle>
+<url>db/journals/lncs/lncs546.html#Ludewig91</url>
+<ee>http://dx.doi.org/10.1007/3-540-54594-8_59</ee>
+</inproceedings>
+</dblp>
